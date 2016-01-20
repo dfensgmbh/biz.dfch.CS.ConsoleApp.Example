@@ -20,8 +20,6 @@ namespace Artikelverwaltung                                     //Das Programm w
 {
     class Program
     {
-    	
-        
         static void Main(string[] args)
         {
         	string[] artikelname = new string[10];
@@ -213,9 +211,8 @@ namespace Artikelverwaltung                                     //Das Programm w
                     Console.WriteLine("Ungülige Eingabe! Entweder 1-6 oder q!");
                     break;
                     
+                }
             }
-            }
-           
         }
     }
 }
