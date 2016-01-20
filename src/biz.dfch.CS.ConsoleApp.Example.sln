@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artikelverwaltung", "Artikelverwaltung\Artikelverwaltung.csproj", "{2E32C23D-5094-41F0-B442-E473945D3EBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artikelverwaltung.Tests", "Artikelverwaltung.Tests\Artikelverwaltung.Tests.csproj", "{FE3066D0-1E19-4D9D-ABE8-C8D280F0E400}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2E32C23D-5094-41F0-B442-E473945D3EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E32C23D-5094-41F0-B442-E473945D3EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E32C23D-5094-41F0-B442-E473945D3EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE3066D0-1E19-4D9D-ABE8-C8D280F0E400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3066D0-1E19-4D9D-ABE8-C8D280F0E400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3066D0-1E19-4D9D-ABE8-C8D280F0E400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3066D0-1E19-4D9D-ABE8-C8D280F0E400}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
