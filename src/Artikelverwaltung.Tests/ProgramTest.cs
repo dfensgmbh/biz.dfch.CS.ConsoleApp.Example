@@ -4,11 +4,12 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace Artikelverwaltung.Tests
 {
     [TestClass]
-    public class UnitTest1
+    public class ProgramTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void Test()
         {
+
         }
     }
 }
